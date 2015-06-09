@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2013\Projects\Task7\Task7\bin\Debug\Task7.exe.config
+c:\users\pavel\documents\visual studio 2013\Projects\Task7\Task7\obj\Debug\Task7.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2013\Projects\Task7\Task7\bin\Debug\Task7.exe
+c:\users\pavel\documents\visual studio 2013\Projects\Task7\Task7\bin\Debug\Task7.pdb
+c:\users\pavel\documents\visual studio 2013\Projects\Task7\Task7\obj\Debug\Task7.exe
+c:\users\pavel\documents\visual studio 2013\Projects\Task7\Task7\obj\Debug\Task7.pdb
